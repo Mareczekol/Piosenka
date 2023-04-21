@@ -1,8 +1,8 @@
 Bridge
 Zwrotka_1
-Refren_1
+Refren
 Zwrotka_2
-Refren_2
+Refren
 Bridge
 
 
