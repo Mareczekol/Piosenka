@@ -1,4 +1,9 @@
-
+Bridge
+Zwrotka_1
+Refren_1
+Zwrotka_2
+Refren_2
+Bridge
 
 
 
